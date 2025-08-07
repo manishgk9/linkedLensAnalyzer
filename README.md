@@ -16,7 +16,7 @@ intelligent AI-driven tool that analyzes LinkedIn profiles and PDF resumes to pr
 
 ## 🎬 Demo Video
 
-[![Watch the video](https://github.com/user-attachments/assets/a63d1231-22c2-4424-8de4-64076282873f)](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Watch the video](https://github.com/user-attachments/assets/a63d1231-22c2-4424-8de4-64076282873f)](https://www.youtube.com/watch?v=cXS6Po2JqH0)
 
 ---
 ## 🎯 Features
