@@ -1,13 +1,4 @@
 # 🧠 Linkedlence – AI-Powered LinkedIn & Resume Analyzer
-# Screen Shots
-<p align="center">
-  <img width="45%" src="https://github.com/user-attachments/assets/fe19a658-fd56-4d57-8567-b2b83df4069a" />
-  <img width="45%" src="https://github.com/user-attachments/assets/63ece164-d28f-4381-8c45-b00eba8ce2eb" />
-</p>
-
-<p align="center">
-  <img width="50%" src="https://github.com/user-attachments/assets/2f268455-8460-456f-9bae-f701efdf0de5" />
-</p>
 
 **Linkedlence** is an 
 intelligent AI-driven tool that analyzes LinkedIn profiles and PDF resumes to provide ATS scores, strengths, weaknesses, formatting issues, missing keywords, and actionable suggestions using NLP and Google's Gemini model.
@@ -15,8 +6,11 @@ intelligent AI-driven tool that analyzes LinkedIn profiles and PDF resumes to pr
 ---
 
 ## 🎬 Demo Video
+[![Watch the video](https://img.shields.io/badge/Watch%20on%20YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=cXS6Po2JqH0)
 
-[![Watch the video](https://github.com/user-attachments/assets/a63d1231-22c2-4424-8de4-64076282873f)](https://www.youtube.com/watch?v=cXS6Po2JqH0)
+
+https://github.com/user-attachments/assets/3d1f3c3a-ba22-4b46-8b00-6cf6a3cd108c
+
 
 ---
 ## 🎯 Features
